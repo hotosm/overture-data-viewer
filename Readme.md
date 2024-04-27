@@ -1,6 +1,6 @@
 ## Overture Data Viewer 
 
-This repo utilizes [overture-duckdb](https://github.com/kshitijrajsharma/overture-data-duckdb/tree/main/overture-duckdb) to extract the overture map data and converts them in to pmtiles and lists them here
+This repo utilizes [overture-to-tiles](https://github.com/kshitijrajsharma/overture-to-tiles) to extract the overture map data and converts them in to pmtiles and lists them here
 
 Release : 2024-04-16-beta.0
 
