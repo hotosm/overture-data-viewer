@@ -8,6 +8,11 @@ Release : 2024-04-16-beta.0
 
 To view administrative boundaries Click [here](https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Fproduction-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2Fadb.pmtiles#map=1.12/36.6/0)
 
+## Places 
+
+To view places cick [here](https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Fproduction-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2Flocality.pmtiles#map=0.96/-11.9/0)
+
 
 ## Buildings 
 TODO
+
