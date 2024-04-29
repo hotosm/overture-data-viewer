@@ -8,7 +8,16 @@ This repository utilizes [overture-to-tiles](https://github.com/kshitijrajsharma
   - [2024-04-16-beta.0](#2024-04-16-beta0)
     - [Administrative Boundaries](#administrative-boundaries)
     - [Locality](#locality)
-    - [Buildings](#buildings)
+    - [Locality Area](#locality-area)
+    - [Building](#building)
+    - [Building Part](#building-part)
+    - [Place](#place)
+    - [Segment](#segment)
+    - [Connector](#connector)
+    - [Infrastructure](#infrastructure)
+    - [Land](#land)
+    - [Land Use](#land-use)
+    - [Water](#water)
 
 ## Releases
 
@@ -22,6 +31,42 @@ To view administrative boundaries, click [here](https://protomaps.github.io/PMTi
 
 To view locality data, click [here](https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Fproduction-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2F2024-04-16-beta.0%2Flocality.pmtiles#map=0.96/-11.9/0).
 
-#### Buildings
+#### Locality Area
 
-TODO
+WIP
+
+#### Building
+
+WIP
+
+#### Building Part
+
+WIP
+
+#### Place
+
+WIP
+
+#### Segment
+
+WIP
+
+#### Connector
+
+WIP
+
+#### Infrastructure
+
+WIP
+
+#### Land
+
+WIP
+
+#### Land Use
+
+WIP
+
+#### Water
+
+WIP
