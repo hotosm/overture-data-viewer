@@ -37,7 +37,7 @@ WIP
 
 #### Building
 
-WIP
+To view building data, click [here](https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Fproduction-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2F2024-04-16-beta.0%2Fbuilding.pmtiles#map=1.98/-63.49/-91.41)
 
 #### Building Part
 
