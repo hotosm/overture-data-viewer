@@ -5,16 +5,16 @@ This repository utilizes [overture-to-tiles](https://github.com/kshitijrajsharma
 ## Table of Contents
 
 - [2024-05-16-beta.0](#2024-05-16-beta0)
- - [Argentina](#argentina)
- - [Indonesia & Malaysia Area](#indonesia--malaysia-area)
- - [Kenya](#kenya)
- - [Liberia](#liberia)
- - [Malawi](#malawi)
- - [Nepal](#nepal)
- - [Nigeria](#nigeria)
+  - [Argentina](#argentina)
+  - [Indonesia & Malaysia Area](#indonesia--malaysia-area)
+  - [Kenya](#kenya)
+  - [Liberia](#liberia)
+  - [Malawi](#malawi)
+  - [Nepal](#nepal)
+  - [Nigeria](#nigeria)
 - [2024-04-16-beta.0](#2024-04-16-beta0)
- - [Administrative Boundaries](#administrative-boundaries)
- - [Locality](#locality)
+  - [Administrative Boundaries](#administrative-boundaries)
+  - [Locality](#locality)
 
 ## 2024-05-16-beta.0
 
