@@ -20,25 +20,13 @@ This repository utilizes [overture-to-tiles](https://github.com/kshitijrajsharma
 
 ### 2024-05-16-beta.0
 
-#### Nepal
-
-To view and analyze , Click [here](https://kshitijrajsharma.github.io/overture-to-tiles/?url=https%3A%2F%2Fstaging-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2Fnepal%2Fpmtiles)
-
-#### Argentina
-
-To view and analyze , Click [here](https://kshitijrajsharma.github.io/overture-to-tiles/?url=https%3A%2F%2Fstaging-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2F2024-05-16-beta.0%2Fargentina%2Fpmtiles)
-
-#### Indonesia , Malysia Area 
-
-To view and analyze , Click [here](https://kshitijrajsharma.github.io/overture-to-tiles/?url=https%3A%2F%2Fstaging-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2F2024-05-16-beta.0%2Findonesia%2Fpmtiles)
-
-#### Liberia 
-
-To view and analyze , Click [here](https://kshitijrajsharma.github.io/overture-to-tiles/?url=https%3A%2F%2Fstaging-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2F2024-05-16-beta.0%2Fliberia%2Fpmtiles)
-
-#### Nigeria
-
-To view and analyze , Click [here]()
+- [Argentina](https://hotosm.github.io/overture-to-tiles/?url=https%3A%2F%2Fstaging-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2F2024-05-16-beta.0%2Fargentina%2Fpmtiles)
+- [Indonesia & Malaysia Area](https://hotosm.github.io/overture-to-tiles/?url=https%3A%2F%2Fstaging-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2F2024-05-16-beta.0%2Findonesia%2Fpmtiles)
+- [Kenya](https://hotosm.github.io/overture-to-tiles/?url=https%3A%2F%2Fstaging-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2F2024-05-16-beta.0%2Fkenya%2Fpmtiles)
+- [Liberia](https://hotosm.github.io/overture-to-tiles/?url=https%3A%2F%2Fstaging-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2F2024-05-16-beta.0%2Fliberia%2Fpmtiles)
+- [Malawi](https://hotosm.github.io/overture-to-tiles/?url=https%3A%2F%2Fstaging-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2F2024-05-16-beta.0%2Fmalawi%2Fpmtiles)
+- [Nepal](https://hotosm.github.io/overture-to-tiles/?url=https%3A%2F%2Fstaging-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2F2024-05-16-beta.0%2Fnepal%2Fpmtiles)
+- [Nigeria](https://hotosm.github.io/overture-to-tiles/?url=https%3A%2F%2Fstaging-raw-data-api.s3.amazonaws.com%2Fdefault%2Foverture%2F2024-05-16-beta.0%2Fnigeria%2Fpmtiles)
 
 
 ### 2024-04-16-beta.0
